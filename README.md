@@ -15,3 +15,4 @@ Note: weights are hard-coded
 ```
 python inference.py
 ```
+https://www.youtube.com/watch?v=bXGBeRzM87g
